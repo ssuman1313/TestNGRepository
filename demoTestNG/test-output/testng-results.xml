@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2019-08-09T14:00:16Z" name="Suite" finished-at="2019-08-09T14:00:16Z" duration-ms="30">
+    <groups>
+    </groups>
+    <test started-at="2019-08-09T14:00:16Z" name="Test" finished-at="2019-08-09T14:00:16Z" duration-ms="30">
+      <class name="demoTestNG.parallelExecutionTestNG">
+        <test-method signature="f()[pri:0, instance:demoTestNG.parallelExecutionTestNG@43c1b556]" started-at="2019-08-09T14:00:16Z" name="f" finished-at="2019-08-09T14:00:16Z" duration-ms="8" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+      </class> <!-- demoTestNG.parallelExecutionTestNG -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
